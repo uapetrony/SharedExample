@@ -5,3 +5,7 @@ export function helloWorld() {
 export function error() {
     throw new Error(`not implemented`);
 }
+
+export function err() {
+	// do nothing
+}
